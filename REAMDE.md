@@ -1,7 +1,7 @@
 El olor de las Ondas
 --------------------
 
-Instalación interactiva de Jorge Benet.
+InstalaciÃ³n interactiva.
 
 Programada en Openframeworks v8.0.
 
